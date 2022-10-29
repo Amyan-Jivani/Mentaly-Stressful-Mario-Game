@@ -1,0 +1,44 @@
+#bigimage, #heading{
+    width: 100%;
+}
+#footer{
+    background-color: dimgrey;
+    color: midnightblue;
+    text-shadow: 2px 2px 0px firebrick;
+    bottom: 0;
+    border-radius: 10px;
+    line-height: 2;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instruction_picture{
+width: 45%;
+display: inline-blocks;
+}
+
+.h4_a{
+    color: indianred;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 10px;
+}
+
+canvas{
+    box-shadow: 4px 4px 40px darkgoldenrod;
+}
+
+#playgame{
+    box-shadow: 5px 5px crimson;
+}
